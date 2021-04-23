@@ -1,3 +1,5 @@
+#Print it's Page title.
+
 from selenium import webdriver
 import time
 chrome_driver_path = "C:\Development\chromedriver.exe"

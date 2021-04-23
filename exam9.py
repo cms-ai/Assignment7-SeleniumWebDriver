@@ -1,4 +1,4 @@
-# Login Form
+# Web form
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
@@ -33,4 +33,4 @@ submit_btn.click()
 
 
 
-# driver.close()
+driver.close()

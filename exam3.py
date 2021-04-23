@@ -1,3 +1,4 @@
+#Set size of browser window
 from selenium import webdriver
 import  time
 

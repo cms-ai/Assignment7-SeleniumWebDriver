@@ -24,4 +24,4 @@ time.sleep(5)
 login_btn = driver.find_element_by_xpath("//form[@id='login']/button/i").click()
 
 
-# driver.close()
+driver.close()

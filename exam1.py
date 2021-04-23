@@ -1,3 +1,5 @@
+#– Open http://practice.automationtesting.in/
+
 from selenium import webdriver
 
 chrome_driver_path = "C:\Development\chromedriver.exe"

@@ -1,3 +1,4 @@
+#- Maximize browser window
 from selenium import webdriver
 
 chrome_driver_path = "C:\Development\chromedriver.exe"
